@@ -1,39 +1,19 @@
-Vandana
-About
-Skills
-Experience
-Projects
-Education
-Certifications
-Activities
-Contact
-Vandana Kuchipudi
-Vandana Kuchipudi
-IT Student | Java Developer | Web Enthusiast
-Passionate about creating solutions through code and continuous learning
-
-View My Work Contact Me
-About Me
-Highly motivated and dedicated IT student with a strong foundation in programming languages such as Java and C, and familiar with Python. Experienced in web technologies like HTML, CSS, and basics in MySQL databases.
-
-Currently enhancing skills through internships with a passion for learning and problem solving. Adept at communication, teamwork, and adapting to dynamic work environments.
-
-Vandana Kuchipudi
-My Skills
-Programming Languages
-Java
-C
-Python
-Web Technologies
-HTML
-CSS
-JavaScript
-React
-PHP
-Databases & Tools
-MySQL
-Bootstrap
-Java FX
+VANDANA KUCHIPUDI 
+Tenali ,Andhra Pradesh -522212. 
+9437772317 
+vandanakuchipudi06@gmail.com 
+www.linkedin.com/in/vandana-kuchipudi-7b998a269 
+Summary 
+Highly motivated and dedicated with a strong foundation in programming languages such as JAVA and C and 
+familiar with PYTHON. Experienced in wed technologies like HTML,CSS and basics in MYSQL databases 
+.Currently enhancing skills through internships with a passion for learning and problem solving. Adapt in 
+communication, teamwork, and adapting to dynamic work environments. 
+Skills 
+▪ Programming Languages: JAVA,C,PYTHON 
+▪ Web Technologies: HTML, CSS, JAVA SCRIPT 
+▪ Databases: familiar in SQL (MySQL) 
+▪ Soft Skills: Strong problem-solving and analytical thinking, excellent communication 
+and teamwork abilities, willingness to learn and adapt in a fast-paced environment 
 Experience
 Jan - Mar 2025
 Google Android Developer Intern
@@ -55,67 +35,27 @@ My Projects
 Radiant Skin Project
 Radiant Skin
 A web application that provides personalized skincare recommendations with detailed skin analysis, product suggestions, ingredient safety checks, and progress tracking.
-
 HTML CSS JavaScript Java
 View Details
 Web Development Project
 Web Development Project
 A comprehensive web application developed during my Internshala training, implementing full-stack technologies.
-
 HTML CSS JavaScript React PHP DBMS Bootstrap
 View Details
-Education
-B.Tech in Information Technology
-Vasireddy Venkatadri Institute of Technology
-
-2022 - 2026 | CGPA: 7.77
-
-Intermediate
-NRI Junior College
-
-2020 - 2022 | CGPA: 8.83
-
-SSC
-Sacred Hearts EM High School
-
-2020 | CGPA: 10
-
-Certifications
-Programming in Java
-NPTEL
-
-View Certificate
-Cloud Computing
-NPTEL
-
-View Certificate
-Web Development
-Internshala
-
-Completed project using HTML, CSS, JavaScript, React, PHP, and DBMS View Certificate
-Java Programming Fundamentals
-Infosys Springboard
-
-View Certificate
-Extracurricular Activities
-Association for Computing Machinery (ACM)
-Member | 2023 - Present
-
-Organized and conducted technical events like Sparda
-Participated in coding competitions and hackathons
-Attended workshops on emerging technologies
-National Service Scheme (NSS)
-Volunteer | 2022 - Present
-
-Participated in community service initiatives
-Organized blood donation camps and tree plantation drives
-Conducted awareness programs in rural areas
-Get In Touch
-Contact Information
- vandanakuchipudi06@gmail.com
-
- +91 9437772317
-
- Tenali, Andhra Pradesh - 522212
-
-  
+Educational Qualification 
+B. Tech (Information Technology 2022-2026) 
+▪ Institute: Vasireddy Venkatadri Institute of Technology 
+▪ CGPA 7.77 
+Intermediate(2020-2022) 
+▪ Institute: NRI Junior College 
+▪ CGPA 8.83 
+SSC(2020) 
+▪ Institute: Sacred Hearts EM High School 
+▪ CGPA 10 
+Certifications 
+▪ Programming in Java – NPTEL. 
+▪ Cloud Computing – NPTEL. 
+▪ Web Development – Internshala. 
+▪ Java Programming Fundamentals – INFOSYS SPRING BOARD. 
+Achievements 
+▪ Member of ACM organized and conducted events like Sparda
